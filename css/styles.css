@@ -1,0 +1,15 @@
+body {
+  font-family: fantasy;
+  text-align: center;
+}
+
+h1 {
+  font-weight: bolder;
+}
+
+ul {
+  margin: 36px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 10%;
+}
