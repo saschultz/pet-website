@@ -5,6 +5,7 @@ body {
 
 h1 {
   font-weight: bolder;
+  border-style: ridge;
 }
 
 ul {
@@ -12,4 +13,12 @@ ul {
   margin-left: auto;
   margin-right: auto;
   width: 10%;
+}
+
+img {
+  display: block;
+  margin: auto;
+  width: auto;
+  height: auto;
+  opacity: inherit;
 }
